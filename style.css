@@ -256,11 +256,14 @@ text-align: center;
 .contact a{
     color: #FFF;
 font-family: Poppins;
-font-size: 14px;
+font-size: 12px;
 font-style: normal;
 font-weight: 500;
 line-height: 163.5%; /* 26.16px */
 text-decoration: none;
+}
+.copy-text a{
+    font-size: 12px;
 }
 .copy-text{
     font-size: 12px;
